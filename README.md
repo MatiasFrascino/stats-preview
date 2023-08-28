@@ -19,8 +19,8 @@ In this project, a card was developed to display the statistics of a Data Analyt
 ![](./images/stats-preview-card.png)
 ### Links
 
-- Solution URL: [https://github.com/MatiasFrascino/qr-code-component](https://github.com/MatiasFrascino/qr-code-component)
-- Live Site URL: [https://matiasfrascino.github.io/qr-code-component/](https://matiasfrascino.github.io/qr-code-component/)
+- Solution URL: [Click Here](https://github.com/MatiasFrascino/stats-preview)
+- Live Site URL: [Click Here](https://matiasfrascino.github.io/stats-preview/)
 
 ## My process
 
